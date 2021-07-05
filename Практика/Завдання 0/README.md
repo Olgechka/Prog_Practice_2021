@@ -6,4 +6,4 @@
 ![image](https://user-images.githubusercontent.com/86926470/124462522-71ddde80-dd9a-11eb-8053-f347f87ee2cf.png)
 ![image](https://user-images.githubusercontent.com/86926470/124462732-a8b3f480-dd9a-11eb-9371-296a36d69346.png)
 Створення SSH-ключа
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/86926470/124463621-cfbef600-dd9b-11eb-9913-74b983be1ccf.png)
