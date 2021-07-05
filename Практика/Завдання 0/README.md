@@ -4,3 +4,4 @@
 ![image](https://user-images.githubusercontent.com/86926470/124459114-7b654780-dd96-11eb-8b24-dfd227975e28.png)
 Налаштування SSH
 ![image](https://user-images.githubusercontent.com/86926470/124462522-71ddde80-dd9a-11eb-8053-f347f87ee2cf.png)
+![image](https://user-images.githubusercontent.com/86926470/124462732-a8b3f480-dd9a-11eb-9371-296a36d69346.png)
