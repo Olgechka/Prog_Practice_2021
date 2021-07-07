@@ -26,6 +26,10 @@ print("\n")
 Джерела
 
 ![image](https://user-images.githubusercontent.com/86926470/124712916-8d66f780-df08-11eb-8572-bcc04447ccb5.png)
- Посилання: https://tproger.ru/translations/regular-expression-python/ 
+
+
+ Посилання: https://tproger.ru/translations/regular-expression-python/
+
+
  
  https://stackoverflow.com/questions/32930246/python-for-loops-for-i-in-range0-lenlist-vs-for-i-in-list 
