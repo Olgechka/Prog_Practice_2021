@@ -1,4 +1,4 @@
-Код програми з поясненням
+# Код програми з поясненням
 import re #модуль для роботи з постійними виразами
 
 str = input("\nВведіть рядок: ")
@@ -19,11 +19,11 @@ print("Масив чисел в степені за їхнім індексом:
 print("\n")
 
 
-Результ виконання програм
+# Результат виконання програми
 ![image](https://user-images.githubusercontent.com/86926470/124712383-ef732d00-df07-11eb-8a0e-05c5fe1f3cf8.png)
 
 
-Джерела
+# Джерела
 
 ![image](https://user-images.githubusercontent.com/86926470/124712916-8d66f780-df08-11eb-8572-bcc04447ccb5.png)
  Посилання: https://tproger.ru/translations/regular-expression-python/ 
