@@ -9,7 +9,7 @@
 # Продвинутий калькулятор
 ![image](https://user-images.githubusercontent.com/86926470/125172156-b2858f80-e1c0-11eb-9dcd-a346503191f4.png)
 
-# Ресурси
+# Джерела
 https://russianblogs.com/article/53241031200/
 
 https://www.youtube.com/watch?v=8Ca7oT5RlxU 
